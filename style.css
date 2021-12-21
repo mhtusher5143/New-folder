@@ -1,9 +1,25 @@
-div{
-    height: 300px;
-    width: 300px;
-    background-color: blueviolet;
-    margin: 40px 20px 30px 30px;
+table{
+    border-collapse: collapse;
+    text-align: justify;
+    padding: 20px;
 }
-link{
-    color: darkgreen;
+table,th,td{
+    border-collapse: collapse;
+    padding: 25px;
+}
+thead{
+    background-color: pink;
+}
+.td{
+    background-color: rgb(173, 216, 230);
+}
+.td2{
+    background-color: rgb(248, 240, 227);
+}
+.td3{
+    background-color: lightgreen;
+}
+.td4{
+    background-color: gray;
+    
 }
