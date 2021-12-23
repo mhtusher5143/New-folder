@@ -3,6 +3,8 @@ table{
     text-align: justify;
     padding: 20px;
     margin: 0px auto;
+    width: 10px;
+    height: 10px;
 }
 table,th,td{
     border-collapse: collapse;
@@ -19,6 +21,8 @@ thead{
 }
 .td3{
     background-color: lightgreen;
+    text-decoration: solid;
+    text-align: justify;
 }
 .td4{
     background-color: gray;    
