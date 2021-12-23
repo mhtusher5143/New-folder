@@ -4,10 +4,9 @@ table{
     margin: 0px auto;
     width: 1000px;
 }
-table,th,td{
+table1,th,td{
     border-collapse: collapse;
     padding: 25px;
-    font-size: 20px;
     font-family: sans-serif;
     text-decoration: solid;
     text-transform: capitalize;
@@ -31,7 +30,22 @@ thead{
     background-color: gray;    
 }
 div.main{
-    height: 200px;
     font-weight: bolder;
-    margin: 100px auto 0px auto;
+    margin: 0px auto 0px auto;
+    font-family: sans-serif;
+}
+.pink{
+    background-color: pink;
+}
+
+/* This is second table css  */
+
+.table2{
+    border-collapse: collapse;
+}
+#th2{
+    background-color: green;
+}
+#blue{
+    text-emphasis-color: blue;
 }
