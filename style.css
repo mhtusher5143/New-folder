@@ -1,17 +1,20 @@
 table{
     border-collapse: collapse;
     text-align: justify;
-    padding: 20px;
     margin: 0px auto;
-    width: 10px;
-    height: 10px;
+    width: 1000px;
 }
 table,th,td{
     border-collapse: collapse;
     padding: 25px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: solid;
+    text-transform: capitalize;
 }
 thead{
     background-color: pink;
+    text-transform: capitalize;
 }
 .td{
     background-color: rgb(173, 216, 230);
